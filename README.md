@@ -1,3 +1,7 @@
+#Final code
+
+This repo conatins the final code for the workshop listed below. The original code state can be found [here](https://github.com/7thPorter/react-hook-workshop). A recording of this workshop can be found [here](https://youtu.be/I7PrOm0IQsI).
+
 # A Very Madrigal React Hook Workshop!
 
 In this workshop, within the context of Disney's *Encanto*, we'll explore [React](https://reactjs.org/)'s functional component hooks, including [useState](https://reactjs.org/docs/hooks-state.html), [useEffect](https://reactjs.org/docs/hooks-effect.html), [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext), and [useRef](https://reactjs.org/docs/hooks-reference.html#useref). Gaining understanding and eventual mastery of these techniques will help you to maximize your React capabilities. Using these hooks makes functional components (our previously so-called "dumb" components) very powerful!
